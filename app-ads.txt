@@ -1,3 +1,4 @@
+vungle.com, 6aaa6fd0c8c1b61c383f8c29, DIRECT, c107d686becd2d77
 chartboost.com, 69ec8fa59c7c228c4cce4de5, DIRECT
 loopme.com, 20521, DIRECT, 6c8d5f95897a5a3b
 lijit.com, 248396, RESELLER, fafdf38b16bf6b2b
